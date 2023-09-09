@@ -89,7 +89,7 @@ def tp(text):
 def send_email():
     sender_email = '3545184062@qq.com'
     sender_password = 'cvgdfvcxtmawdaij'
-    receiver_email = '827737456@qq.com'
+    receiver_email = '2451831907@qq.com'
     smtp_server = 'smtp.qq.com'
     smtp_port = 587
 
